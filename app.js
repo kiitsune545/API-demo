@@ -12,6 +12,6 @@ const server = http.createServer((req,res) =>{
     }
 });
 
-server.listen({port});
+server.listen(3000);
 
-console.log('Listening to port {port}...');
+console.log('Listening to port 3000...');
