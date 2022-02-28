@@ -1,5 +1,5 @@
 {
-  "name": "API",
+  "name": "api",
   "version": "1.0.0",
   "main": "app.js",
   "scripts": {
@@ -8,8 +8,18 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
-    "express": "^4.17.3"
-  }
+    "express": "^4.17.3",
+    "pg": "^8.7.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiitsune545/API-demo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kiitsune545/API-demo/issues"
+  },
+  "homepage": "https://github.com/kiitsune545/API-demo#readme",
+  "description": ""
 }
